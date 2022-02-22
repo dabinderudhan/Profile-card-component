@@ -1,0 +1,35 @@
+body {
+  font-family: $ff-default;
+  font-size: $fs-name-stats;
+  font-weight: $fw-default;
+  color: $color-neutral-Dark;
+}
+
+.card {
+  text-align: center;
+
+  & h1 {
+    color: $color-primary-darker;
+  }
+
+  &-header {
+    &--name {
+      & span {
+        color: $color-primary-dark;
+        font-weight: $fw-default;
+      }
+    }
+
+    &--city {
+      font-size: 1rem;
+    }
+  }
+
+  &-data {
+    &--details {
+      & p {
+        font-size: 0.875rem;
+      }
+    }
+  }
+}
