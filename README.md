@@ -32,7 +32,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [Github](https://github.com/dabinderudhan/Profile-card-component)
-- Live Site URL: [live URL](https://your-live-site-url.com)
+- Live Site URL: [live URL](https://dabinderudhan.github.io/Profile-card-component/)
 
 ## My process
 
