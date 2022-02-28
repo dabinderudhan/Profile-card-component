@@ -27,6 +27,10 @@ body {
 
   &-data {
     &--details {
+      & h2 {
+        font-size: 1.4rem;
+        color: $color-primary-darker;
+      }
       & p {
         font-size: 0.875rem;
       }

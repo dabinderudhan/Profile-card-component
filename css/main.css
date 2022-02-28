@@ -36,6 +36,9 @@ body {
     font-weight: 400; }
   .card-header--city {
     font-size: 1rem; }
+  .card-data--details h2 {
+    font-size: 1.4rem;
+    color: #2d3248; }
   .card-data--details p {
     font-size: 0.875rem; }
 
